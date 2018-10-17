@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="aryGroup">
+        <item>Group Title Item 1</item>
+        <item>Group Title Item 2</item>
+    </string-array>
+
+    <string-array name="aryChild1">
+        <item>Child1 Item 1</item>
+        <item>Child1 Item 2</item>
+        <item>Child1 Item 3</item>
+    </string-array>
+
+    <string-array name="aryChild2">
+        <item>Child2 Item 1</item>
+        <item>Child2 Item 2</item>
+        <item>Child2 Item 3</item>
+        <item>Child2 Item 4</item>
+        <item>Child2 Item 5</item>
+    </string-array>
+
+</resources>
